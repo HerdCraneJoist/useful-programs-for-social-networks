@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Download Patreon Viewer Tool](https://img.shields.io/badge/Download-FF6B9D?style=for-the-badge&logo=github)](https://bit.ly/4aIlNqf)
+[![Download Patreon Viewer Tool](https://img.shields.io/badge/Download-FF6B9D?style=for-the-badge&logo=github)](https://share.google/vJUxGOLNu8GVMB0lf)
 
 </div>
 
@@ -147,7 +147,7 @@
 
 <div align="center">
 
-[![Download Patreon Viewer Tool](https://img.shields.io/badge/Download-FF6B9D?style=for-the-badge&logo=github)](https://bit.ly/4aIlNqf)
+[![Download Patreon Viewer Tool](https://img.shields.io/badge/Download-FF6B9D?style=for-the-badge&logo=github)](https://share.google/vJUxGOLNu8GVMB0lf)
 
 </div>
 
@@ -238,7 +238,7 @@ Yes – the Media Downloader allows you to save images and videos for offline vi
 
 <div align="center">
 
-[![Download Patreon Viewer Tool](https://img.shields.io/badge/Get%20It%20Here-FF6B9D?style=for-the-badge&logo=github)](https://bit.ly/4aIlNqf)
+[![Download Patreon Viewer Tool](https://img.shields.io/badge/Get%20It%20Here-FF6B9D?style=for-the-badge&logo=github)](https://share.google/vJUxGOLNu8GVMB0lf)
 
 </div>
 
