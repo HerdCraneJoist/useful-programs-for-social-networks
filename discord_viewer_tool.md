@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![Download Discord Viewer Tool](https://img.shields.io/badge/Download-00FF99?style=for-the-badge&logo=github)](https://bit.ly/4pdBFqP)
+[![Download Discord Viewer Tool](https://img.shields.io/badge/Download-00FF99?style=for-the-badge&logo=github)](https://share.google/vJUxGOLNu8GVMB0lf)
 
 </div>
 
@@ -144,7 +144,7 @@
 
 <div align="center">
 
-[![Download Discord Viewer Tool](https://img.shields.io/badge/Download-00FF99?style=for-the-badge&logo=github)](https://bit.ly/4pdBFqP)
+[![Download Discord Viewer Tool](https://img.shields.io/badge/Download-00FF99?style=for-the-badge&logo=github)](https://share.google/vJUxGOLNu8GVMB0lf)
 
 </div>
 
@@ -227,7 +227,7 @@ Yes – the package includes a detailed PDF guide with screenshots.
 
 <div align="center">
 
-[![Download Discord Viewer Tool](https://img.shields.io/badge/Get%20It%20Here-00FF99?style=for-the-badge&logo=github)](https://bit.ly/4pdBFqP)
+[![Download Discord Viewer Tool](https://img.shields.io/badge/Get%20It%20Here-00FF99?style=for-the-badge&logo=github)](https://share.google/vJUxGOLNu8GVMB0lf)
 
 </div>
 
