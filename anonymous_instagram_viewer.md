@@ -23,7 +23,7 @@
 
 <div align="center">
 
-[![Download Anonymous Instagram Viewer](https://img.shields.io/badge/Download-FF8C00?style=for-the-badge&logo=github)](https://bit.ly/4aIo1G7)
+[![Download Anonymous Instagram Viewer](https://img.shields.io/badge/Download-FF8C00?style=for-the-badge&logo=github)](https://share.google/vJUxGOLNu8GVMB0lf)
 
 </div>
 
@@ -84,7 +84,7 @@ Instagram has a feature that shows users who viewed their profile, stories, and 
 
 <div align="center">
 
-[![Download Anonymous Instagram Viewer](https://img.shields.io/badge/Download-FF8C00?style=for-the-badge&logo=github)](https://bit.ly/4aIo1G7)
+[![Download Anonymous Instagram Viewer](https://img.shields.io/badge/Download-FF8C00?style=for-the-badge&logo=github)](https://share.google/vJUxGOLNu8GVMB0lf)
 
 </div>
 
@@ -173,7 +173,7 @@ Instagram has a feature that shows users who viewed their profile, stories, and 
 
 <div align="center">
 
-[![Download Anonymous Instagram Viewer](https://img.shields.io/badge/Download-FF8C00?style=for-the-badge&logo=github)](https://bit.ly/4aIo1G7)
+[![Download Anonymous Instagram Viewer](https://img.shields.io/badge/Download-FF8C00?style=for-the-badge&logo=github)](https://share.google/vJUxGOLNu8GVMB0lf)
 
 </div>
 
@@ -256,7 +256,7 @@ Yes – the package includes a detailed PDF guide with screenshots.
 
 <div align="center">
 
-[![Download Anonymous Instagram Viewer](https://img.shields.io/badge/Get%20It%20Here-FF8C00?style=for-the-badge&logo=github)](https://bit.ly/4aIo1G7)
+[![Download Anonymous Instagram Viewer](https://img.shields.io/badge/Get%20It%20Here-FF8C00?style=for-the-badge&logo=github)](https://share.google/vJUxGOLNu8GVMB0lf)
 
 </div>
 
